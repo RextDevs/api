@@ -1,0 +1,17 @@
+{
+    "perks": {
+        "1": {
+            "names": {
+                "es-es": "Vinculo"
+            },
+            "id": "1"
+        },
+        "2": {
+            "names": {
+                "es-es": "demuestra lo que vales",
+                "es-la": "demuestra lo que vales"
+            },
+            "id": "2"
+        }
+    }
+}

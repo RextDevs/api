@@ -1,0 +1,62 @@
+{
+    "[id]": {
+        "id": "[id]",
+        "image_url": "[imagen_url]",
+        "is_free": false,
+        "ptb": true,
+        "[lenguaje]": {
+            "language": "[lenguaje]",
+            "name": "[nombre]",
+            "description": "[descripci\u00f3n]",
+            "role": "[rol/killer/survivor]",
+            "owner": {
+                "name": "[nombre del survi/killer]",
+                "id": "[id del survi/killer]",
+                "url": "[url del survi/killer]"
+            },
+            "counters":{},
+            "category": "[categoria]apoyo,etc",
+            "is_generic": "Si o No"
+        }
+    },
+    "1": {
+        "id": "1",
+        "image_url": "",
+        "is_free": false,
+        "ptb": false,
+        "es-es": {
+            "language": "Espa\u00f1ol Espa\u00f1a",
+            "name": "vinculo",
+            "description": "Desbloquea la capacidad de percibir Auras. Se te revelan las Auras de los aliados en un radio de 20/28/36 metros. \"Tenemos que trabajar como un equipo, \u00a1Necesito que sobreviv\u00e1is para que yo tambi\u00e9n pueda hacerlo!\" \u2014 Dwight Fairfield",
+            "role": "Sobreviviente",
+            "owner": {
+                "name": "Dwight Fairfield",
+                "id": "1",
+                "url": "None"
+            },
+            "counters":{},
+            "category": "apoyo",
+            "is_generic": "No"
+        }
+    },
+    "2": {
+        "id": "2",
+        "image_url": "None",
+        "is_free": false,
+        "ptb": false,
+        "es-es": {
+            "language": "Espa\u00f1ol de Espa\u00f1a",
+            "name": "demuestra lo que vales",
+            "description": "Por cada otro Superviviente trabajando en un Generador dentro de un rango de 4 metros, recibes una bonificaci\u00f3n del 15 % de la velocidad de Reparaci\u00f3n. La misma bonificaci\u00f3n tambi\u00e9n se aplica al resto de Supervivientes dentro de ese rango. Consigues un 50/75/100 % m\u00e1s de Puntos de Sangre por Acciones Cooperativas.  Los Supervivientes solo pueden recibir un efecto Demuestra lo que Vales a la vez.  \"\u00a1Te mostrar\u00e9 lo que puedo hacer!\" \u2014 Dwight Fairfield",
+            "role": "Sobreviviente",
+            "owner": {
+                "name": "Dwight Fairfield",
+                "id": "1",
+                "url": "None"
+            },
+            "counters":{},
+            "category": "Genrush",
+            "is_generic": "No"
+        }
+    }
+}

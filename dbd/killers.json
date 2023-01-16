@@ -1,0 +1,67 @@
+{
+    "[id]":{
+        "id":"[id]",
+        "dlc":{
+            "name":"dlcname / base game",
+            "id":"dlcid / basegame",
+            "url":"dlcurl"
+        },
+        "icon": {
+			"portrait": "[icono de perfil]",
+			"preview_portrait": "[icono en la pantalla de selección]",
+			"shop_background": "[fondo de la tienda]"
+		},
+        "sounds": {
+            "voice": "[url del audio]",
+            "chase": "[url del audio]",
+            "death": "[url del audio]",
+            "hit": "[url del audio]"
+        },
+        "[lenguaje]":{
+            "language":"[lenguaje]",
+            "name":"[nombre]",
+            "name_full":"[nombre completo]",
+            "realm":"[reino]",
+            "power":{
+                "name":"[nombre del poder]",
+                "id":"[id del poder]",
+                "url":"[url del poder]"
+            },
+            "weapon":"[arma]",
+            "stats":{
+                "terror_radius":"[radio de terror + unidad de medida(1 mtrs)]",
+                "speed":"[velocidad + unidad de medida(1 mtrs/s)]",
+                "height":"[altura (alto, bajo)]",
+                "dificulty":"[dificultad]"
+            },
+            "counters":{
+                
+            },
+            "overview":"[descripción]",
+            "story":"[historia]",
+            "gender":"[genero]",
+            "is_free":"Si o No",
+            "ptb": "No",
+            "tipo": "[original o licencia]",
+            "nacionality": "[nacionalidad]",
+            "perks":{
+                "1":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                },
+                "2":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                },
+                "3":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                }
+            },
+            "shop_available": "Si o No"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "[id]":{
+        "id":"[id]",
+        "name":"[nombre]",
+        "name_full":"[nombre completo]",
+        "dlc":{
+            "name":"dlcname / base game",
+            "id":"dlcid / basegame",
+            "url":"dlcurl"
+        },
+        "icon": {
+			"portrait": "[icono de perfil]",
+			"preview_portrait": "[icono en la pantalla de selección]",
+			"shop_background": "[fondo de la tienda]"
+		},     
+        "[lenguaje]":{
+            "language":"[lenguaje]",
+            "overview":"[descripción]",
+            "story":"[historia]",
+            "gender":"[genero]",
+            "is_free":"Si o No",
+            "ptb": "No",
+            "tipo": "[original o licencia]",
+            "nacionality": "[nacionalidad]",
+            "perks":{
+                "1":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                },
+                "2":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                },
+                "3":{
+                    "name":"[nombre del perk]",
+                    "id":"[id del perk]",
+                    "url":"[url del perk]"
+                }
+            },
+            "shop_available": "Si o No"
+        }
+    }
+}
