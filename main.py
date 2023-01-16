@@ -5,7 +5,7 @@ from pydantic import BaseModel
 import json, os
 
 app = FastAPI()
-#http://127.0.0.1:8000/docs
+#http://127.0.0.1:8000/docs //redoc
 # python3 -m uvicorn main:app --reload
 
 class ModelName(str, Enum):
